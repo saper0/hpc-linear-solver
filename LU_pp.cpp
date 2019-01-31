@@ -6,7 +6,7 @@
 *		with partial pivoting using CBLAS.
 *
 *		Implementation of a random matrix generator for experimental
-*		evaluation.
+*		evaluation. 
 */
 
 #include <iostream>

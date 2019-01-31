@@ -3,7 +3,7 @@
 *	Date: 30.04.2018
 *	Description: 
 *		Implementation of a forward and backwards substitution 
-*		algorithm. 
+*		algorithm.
 *		
 *		Implementation of a random lower or upper triangular matrix
 *		generator for experimental evaluation.

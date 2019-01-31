@@ -3,7 +3,7 @@
 *	Date: 05.05.2018
 *	Description:
 *		Implementation of a blocked right-looking LU factorization 
-*		with partial pivoting using CBLAS.
+*		with partial pivoting using CBLAS. 
 *
 *		Implementation of a random matrix generator for experimental
 *		evaluation.

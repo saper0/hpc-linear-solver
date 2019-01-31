@@ -3,7 +3,7 @@
 *	Date: 05.05.2018
 *	Description: 
 *		Implementation of a unblocked right-looking LU factorization
-*		using CBLAS.
+*		using CBLAS. 
 *		
 *		Implementation of a random matrix generator for experimental
 *		evaluation.
