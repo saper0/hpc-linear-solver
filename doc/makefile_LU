@@ -1,0 +1,2 @@
+prog:
+	c++ -std=c++11 -lblas -O3 -ffast-math -march=native LU_gosch.cpp -o LU_gosch.out

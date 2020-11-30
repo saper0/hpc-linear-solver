@@ -1,0 +1,2 @@
+prog:
+	c++ -std=c++11 -O3 -ffast-math -march=native task1_gosch.cpp -o task1_gosch.out

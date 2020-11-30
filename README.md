@@ -7,6 +7,7 @@ High Performance Dense Linear Solver developed during the 2018S - Computer Archi
 * LU.cpp: Implementation of a standard LU factorization.
 * LU_pp.cpp: Implementation of an LU factorization with partial pivoting.
 * LU_blocked.cpp: Implementation of a high performance blocked LU factorization with partial pivoting.
+* doc: Includes technical report and makefile for each implementation
 
 ## Requirements
 * C++11
